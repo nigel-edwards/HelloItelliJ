@@ -1,7 +1,7 @@
 # Read me file
 This is a test readme in the project
 
-  1. Test
+1. Test
 2. Test
 3. test
 
