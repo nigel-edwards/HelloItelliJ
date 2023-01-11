@@ -5,6 +5,11 @@ autonumber
 
 Alice -> Bob: Authentication Request
 Activate Bob
+Bob -> Joe: login
+Activate Joe
+Joe --> Bob
+Deactivate Joe
+
 Bob --> Alice: Authentication Response
 Deactivate Bob
 
