@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2383f05-5c08-4c08-af94-bf62eb4e2e87" name="Changes" comment="Minor Change">
-      <change afterPath="$PROJECT_DIR$/TestActivity.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f2383f05-5c08-4c08-af94-bf62eb4e2e87" name="Changes" comment="Added scanner tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSequence.puml" beforeDir="false" afterPath="$PROJECT_DIR$/TestSequence.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672937519659</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added scanner tests">
+      <created>1673449415901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673449415901</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +136,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added some example UML Diagrams" />
     <MESSAGE value="Minor Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor Change" />
+    <MESSAGE value="Added scanner tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scanner tests" />
   </component>
 </project>
